@@ -110,13 +110,11 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
 ---
 
 ## Propriedades CSS Utilizadas Nesta Atividade
-
 - **color**: Define a cor do texto
 - **font-size**: Define o tamanho da fonte
 - **text-align**: Define o alinhamento do texto (left, center, right, justify)
 
 ## Tipos de Seletores Utilizados
-
 - **Seletor Universal** (`*`): Seleciona todos os elementos
 - **Seletor de Elemento** (ex: `h1`, `p`, `div`): Seleciona elementos específicos por sua tag HTML
 - **Seletor de Classe** (`.nome-da-classe`): Seleciona elementos que possuem a classe especificada
