@@ -62,15 +62,15 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
   - `color: #777777;`
 
 ### 5. Seletores de Elemento - Parágrafos e Divs
-- [ ] Estilizar o elemento `p`:
+- [x] Estilizar o elemento `p`:
   - `font-size: 14px;`
   - `color: #444444;`
   - `text-align: justify;`
 
-- [ ] Estilizar o elemento `div`:
+- [x] Estilizar o elemento `div`:
   - `text-align: left;`
 
-- [ ] Estilizar o elemento `span`:
+- [x] Estilizar o elemento `span`:
   - `color: #0066cc;`
   - `font-size: 14px;`
 
@@ -78,7 +78,7 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
 - [ ] Adicionar a classe `destaque` a pelo menos 2 elementos `<p>` no HTML
 - [ ] Criar o seletor `.destaque` no CSS com:
   - `color: #e74c3c;`
-  - `font-size: 16px;`
+    - `font-size: 16px;`
 
 - [ ] Adicionar a classe `secao` a todos os elementos `<div>` no HTML
 - [ ] Criar o seletor `.secao` no CSS com:
@@ -101,11 +101,11 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
 - [ ] Utilizar pelo menos 3 tamanhos diferentes usando `font-size`
 
 ### 8. Validação Final
-- [ ] Verificar se o arquivo CSS está corretamente vinculado ao HTML
-- [ ] Abrir o arquivo `index.html` no navegador e confirmar que todos os estilos foram aplicados
+- [x] Verificar se o arquivo CSS está corretamente vinculado ao HTML
+- [x] Abrir o arquivo `index.html` no navegador e confirmar que todos os estilos foram aplicados
 - [ ] Garantir que todas as propriedades CSS foram utilizadas: `color`, `font-size`, e `text-align`
 - [ ] Garantir que todos os tipos de seletores foram utilizados: universal (`*`), de elemento, e de classe (`.`)
-- [ ] Verificar se sua página no [vercel](https://vercel.com) foi atualizada.
+- [x] Verificar se sua página no [vercel](https://vercel.com) foi atualizada.
 
 ---
 
