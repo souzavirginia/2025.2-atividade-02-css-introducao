@@ -80,8 +80,8 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
   - `color: #e74c3c;`
   - `font-size: 16px;`
 
-- [x] Adicionar a classe `secao` a todos os elementos `<div>` no HTML
-- [x] Criar o seletor `.secao` no CSS com:
+- [ ] Adicionar a classe `secao` a todos os elementos `<div>` no HTML
+- [ ] Criar o seletor `.secao` no CSS com:
   - `text-align: center;`
 
 - [x] Adicionar a classe `link-social` aos elementos `<span>` que contêm links (LinkedIn e GitHub)
@@ -95,10 +95,10 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
   - `font-size: 14px;`
 
 ### 7. Experimentação e Personalização
-- [x] Criar mais 2 classes personalizadas de sua escolha e aplicá-las em elementos do HTML, pode ser as tags `div`
-- [x] Utilizar pelo menos uma propriedade `text-align` diferente (por exemplo: `right`)
-- [x] Utilizar pelo menos 3 cores diferentes usando `color`
-- [x] Utilizar pelo menos 3 tamanhos diferentes usando `font-size`
+- [ ] Criar mais 2 classes personalizadas de sua escolha e aplicá-las em elementos do HTML, pode ser as tags `div`
+- [ ] Utilizar pelo menos uma propriedade `text-align` diferente (por exemplo: `right`)
+- [ ] Utilizar pelo menos 3 cores diferentes usando `color`
+- [ ] Utilizar pelo menos 3 tamanhos diferentes usando `font-size`
 
 ### 8. Validação Final
 - [x] Verificar se o arquivo CSS está corretamente vinculado ao HTML
